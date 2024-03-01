@@ -1,1 +1,2 @@
 Created a sample text file using gitbash.
+Edited the same text file as a change in develop branch.
